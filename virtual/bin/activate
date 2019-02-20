@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/pheobe/Desktop/Core/Cleaning-service/virtual"
+VIRTUAL_ENV="/home/ian/Desktop/Cleaning-service/virtual"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

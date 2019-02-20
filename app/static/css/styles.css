@@ -1,0 +1,14 @@
+h1{
+  text-decoration: underline;
+  text-decoration-color: blue;
+  text-align: center;
+  background-color: rgba(0, 500, 0, 0.5);
+  margin: auto;
+  padding: inherit;
+}
+li{
+ color: purple;
+}
+p{
+  color: blue;
+}
